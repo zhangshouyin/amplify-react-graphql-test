@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3266ab626",
+  "policyUUID": "266ab626",
+  "bucketName": "zsykile-bucket-name",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger32b962a3",
+  "groupAccess": {}
+}
